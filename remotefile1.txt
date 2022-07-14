@@ -1,1 +1,2 @@
 checking authentication of push and pull
+and it is push 
